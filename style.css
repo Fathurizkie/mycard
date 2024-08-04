@@ -59,6 +59,7 @@
 
 .card p {
   font-size: 15px;
+  font-weight: bold;
   margin: 10px auto;
   max-width: 350px;
 }
