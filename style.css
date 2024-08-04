@@ -17,25 +17,25 @@
 }
 
 .card {
-  width: 90%;
+  width: 100%;
   max-width: 400px;
   color: #fff;
   text-align: center;
-  padding: 50px 35px;
+  padding: 60px 35px;
   border: 1px solid rgba(255, 255, 225, 0.3);
   background: rgba(255, 255, 225, 0.2);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(2px);
 }
 
 .card img {
-  width: 140px;
+  width: 150px;
   border-radius: 50%;
 }
 
 .card h1 {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 700;
   margin-top: 20px;
   color: cyan;
@@ -43,7 +43,7 @@
 
 .card h2 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 10px;
+  font-size: 12px;
   font-weight: bold;
   margin-top: 1px;
   color: black;
